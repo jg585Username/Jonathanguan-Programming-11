@@ -55,6 +55,9 @@ public class Main {
         System.out.println((10 * Math.sin(45) + 2) - Math.pow(Math.sqrt(25), 3));
         System.out.println((10 * Math.sin(45) + 2) - Math.pow(5, 3));
         System.out.println((10 * Math.sin(45) + 2) - 125.0);
+        System.out.println(8.509035245341184 + 2 - 125.0);
+        System.out.println(10.509035245341184 - 125.0);
+        System.out.println(-114.49096475465882);
 
         //Jonathan Guan programming 11
 
