@@ -61,6 +61,31 @@ public class Main {
         System.out.println(-114.49096475465882);
 
         //Jonathan Guan programming 11
+        System.out.println((2 * Math.pow(2,2) - 4) + (18 / Math.sqrt(Math.pow(4,2))));
+        System.out.println (Math.pow(4,2));
+        System.out.println(Math.sqrt(16.0));
+        System.out.println(18/4.0);
+        System.out.println (30 != 30);
+        System.out.println ("hello" + "THERE");
+
+        String greet = "Hello Everyone";
+        System.out.println (greet.substring(6,10));
+
+        System.out.println(8==8);
+
+        String name = "Johnny 5";
+        System.out.println(name.substring(5));
+
+        String school = "Windemere";
+        String city = "Vancouver";
+        System.out.println(school.substring(0,4) + "y " + city.substring(3,8));
+
+        
+
+
+
+
+
 
 
 
