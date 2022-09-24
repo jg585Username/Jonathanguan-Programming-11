@@ -23,13 +23,13 @@ public class Deposit {
     }
     //Requires: nothing
     //Modifies: nothing
-    //Effects: returns amount for overdraft method
+    //Effects: returns amount for overdraft method (deposits)
     public double getAmount() {
         return amount;
     }
     //Requires: nothing
     //Modifies: nothing
-    //Effects: returns account for overdraft method
+    //Effects: returns account for overdraft method (deposits)
     public String getAccount() {
         return account;
     }
