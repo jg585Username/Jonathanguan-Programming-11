@@ -19,8 +19,12 @@ public class Withdraw {
         return sentence + sentence1 + sentence2;
     }
 
-    public double getAmount() { return amount; }
+    public double getAmount() { 
+        return amount; 
+    }
 
-    public String getAccount() { return account; }
+    public String getAccount() {
+        return account; 
+    }
 }
 
